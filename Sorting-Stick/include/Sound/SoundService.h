@@ -1,7 +1,7 @@
 #pragma once
 #include "SFML/Audio.hpp"
 
-namespace Sound
+namespace Sounds
 {
 	enum class SoundType
 	{

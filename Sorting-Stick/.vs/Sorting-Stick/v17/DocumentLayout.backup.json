@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\",
+  "WorkspaceRootPath": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\MainMenu\\MainMenuUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:source\\UI\\MainMenu\\MainMenuUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:include\\Gameplay\\Collection\\StickCollectionModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\MainMenu\\MainMenuUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:include\\UI\\MainMenu\\MainMenuUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Gameplay\\Collection\\StickCollectionController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:source\\Gameplay\\Collection\\StickCollectionController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\GameplayUI\\GameplayUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:include\\UI\\GameplayUI\\GameplayUIController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:include\\Gameplay\\Collection\\StickCollectionController.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\GameplayUI\\GameplayUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:source\\UI\\GameplayUI\\GameplayUIController.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Global\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:source\\Global\\Config.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Graphics\\GraphicService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5799EC9B-0667-45F0-A3FD-92906D1605EF}|Sorting-Stick.vcxproj|solutionrelative:include\\Graphics\\GraphicService.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,68 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenuUIController.cpp",
-              "DocumentMoniker": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\MainMenu\\MainMenuUIController.cpp",
-              "RelativeDocumentMoniker": "source\\UI\\MainMenu\\MainMenuUIController.cpp",
-              "ToolTip": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\MainMenu\\MainMenuUIController.cpp",
-              "RelativeToolTip": "source\\UI\\MainMenu\\MainMenuUIController.cpp",
-              "ViewState": "AgIAAGMAAAAAAAAAAADgv3AAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "StickCollectionController.h",
+              "DocumentMoniker": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionController.h",
+              "RelativeDocumentMoniker": "include\\Gameplay\\Collection\\StickCollectionController.h",
+              "ToolTip": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionController.h",
+              "RelativeToolTip": "include\\Gameplay\\Collection\\StickCollectionController.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAD8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T11:06:45.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Config.cpp",
+              "DocumentMoniker": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Global\\Config.cpp",
+              "RelativeDocumentMoniker": "source\\Global\\Config.cpp",
+              "ToolTip": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Global\\Config.cpp",
+              "RelativeToolTip": "source\\Global\\Config.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-01T04:52:43.635Z",
+              "WhenOpened": "2025-07-01T11:06:08.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MainMenuUIController.h",
-              "DocumentMoniker": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\MainMenu\\MainMenuUIController.h",
-              "RelativeDocumentMoniker": "include\\UI\\MainMenu\\MainMenuUIController.h",
-              "ToolTip": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\MainMenu\\MainMenuUIController.h",
-              "RelativeToolTip": "include\\UI\\MainMenu\\MainMenuUIController.h",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-01T04:52:31.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameplayUIController.h",
-              "DocumentMoniker": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\GameplayUI\\GameplayUIController.h",
-              "RelativeDocumentMoniker": "include\\UI\\GameplayUI\\GameplayUIController.h",
-              "ToolTip": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\include\\UI\\GameplayUI\\GameplayUIController.h",
-              "RelativeToolTip": "include\\UI\\GameplayUI\\GameplayUIController.h",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-07-01T04:52:21.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameplayUIController.cpp",
-              "DocumentMoniker": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\GameplayUI\\GameplayUIController.cpp",
-              "RelativeDocumentMoniker": "source\\UI\\GameplayUI\\GameplayUIController.cpp",
-              "ToolTip": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\source\\UI\\GameplayUI\\GameplayUIController.cpp",
-              "RelativeToolTip": "source\\UI\\GameplayUI\\GameplayUIController.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StickCollectionController.cpp",
+              "DocumentMoniker": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Gameplay\\Collection\\StickCollectionController.cpp",
+              "RelativeDocumentMoniker": "source\\Gameplay\\Collection\\StickCollectionController.cpp",
+              "ToolTip": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\source\\Gameplay\\Collection\\StickCollectionController.cpp",
+              "RelativeToolTip": "source\\Gameplay\\Collection\\StickCollectionController.cpp",
+              "ViewState": "AgIAANsAAAAAAAAAAAAgwO8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-01T04:52:04.119Z"
+              "WhenOpened": "2025-07-01T11:05:41.624Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\main.cpp",
-              "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\prana\\Downloads\\Sorting-Stick-main\\Sorting-Stick-main\\Sorting-Stick\\main.cpp",
-              "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-01T04:45:36.505Z"
+              "Title": "GraphicService.h",
+              "DocumentMoniker": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Graphics\\GraphicService.h",
+              "RelativeDocumentMoniker": "include\\Graphics\\GraphicService.h",
+              "ToolTip": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Graphics\\GraphicService.h",
+              "RelativeToolTip": "include\\Graphics\\GraphicService.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T11:05:37.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StickCollectionModel.h",
+              "DocumentMoniker": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionModel.h",
+              "RelativeDocumentMoniker": "include\\Gameplay\\Collection\\StickCollectionModel.h",
+              "ToolTip": "D:\\Projects\\GITHUB Practice\\Sorting-Stick\\Sorting-Stick\\Sorting-Stick\\include\\Gameplay\\Collection\\StickCollectionModel.h",
+              "RelativeToolTip": "include\\Gameplay\\Collection\\StickCollectionModel.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T11:05:14.969Z",
+              "EditorCaption": ""
             }
           ]
         },

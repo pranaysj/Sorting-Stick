@@ -1,7 +1,7 @@
 #include "Sound/SoundService.h"
 #include "Global/Config.h"
 
-namespace Sound
+namespace Sounds
 {
 	using namespace Global;
 

@@ -4,8 +4,8 @@
 namespace Global
 {
 	using namespace Graphics;
-	using namespace Event;
-	using namespace Sound;
+	using namespace Events;
+	using namespace Sounds;
 	using namespace UI;
 	using namespace Gameplay;
 	using namespace Main;

@@ -11,7 +11,7 @@ namespace UI
     namespace GameplayUI
     {
         using namespace Main;
-        using namespace Sound;
+        using namespace Sounds;
         using namespace UIElement;
         using namespace Global;
         using namespace Gameplay;

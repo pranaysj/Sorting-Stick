@@ -13,7 +13,7 @@ namespace UI
         using namespace Global;
         using namespace Main;
         using namespace UIElement;
-        using namespace Sound;
+        using namespace Sounds;
         using namespace Graphics;
 
         MainMenuUIController::MainMenuUIController()
@@ -73,7 +73,7 @@ namespace UI
 
         void MainMenuUIController::registerButtonCallback()
         {
-            //bubble_sort_button->registerCallbackFuntion(std::bind(&MainMenuUIController::bubbleSortButtonCallback, this));
+            bubble_sort_button->registerCallbackFuntion(std::bind(&MainMenuUIController::bubbleSortButtonCallback, this));
             //insertion_sort_button->registerCallbackFuntion(std::bind(&MainMenuUIController::insertionSortButtonCallback, this));
             //selection_sort_button->registerCallbackFuntion(std::bind(&MainMenuUIController::selectionSortButtonCallback, this));
             //merge_sort_button->registerCallbackFuntion(std::bind(&MainMenuUIController::mergeSortButtonCallback, this));
@@ -84,7 +84,8 @@ namespace UI
 
         void MainMenuUIController::bubbleSortButtonCallback()
         {
-            ServiceLocator::getInstance()->getSoundService()->playSound(SoundType::BUTTON_CLICK);
+            changeGameStateToGameplay();
+            ServiceLocator::getInstance()->getGameplayService()->sortElement(Gameplay::Collection::SortType::BUBBLE_SORT);
         }
 
         void MainMenuUIController::insertionSortButtonCallback()
@@ -152,6 +153,12 @@ namespace UI
             quick_sort_button->show();
             radix_sort_button->show();
             quit_button->show();
+        }
+
+        void MainMenuUIController::changeGameStateToGameplay()
+        {
+            ServiceLocator::getInstance()->getSoundService()->playSound(SoundType::BUTTON_CLICK);
+            GameService::setGameState(GameState::GAMEPLAY);
         }
 
         void MainMenuUIController::destroy()
