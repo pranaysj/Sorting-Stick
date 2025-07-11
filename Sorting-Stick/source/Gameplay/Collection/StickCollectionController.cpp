@@ -644,7 +644,7 @@ namespace Gameplay
 				sort_thread = std::thread(&StickCollectionController::processQuickSort, this);
 				break;
 			case Gameplay::Collection::SortType::RADIX_SORT:
-				time_complexity = "O(nlog(n))";
+				time_complexity = "O(w*(n+k))";
 				sort_thread = std::thread(&StickCollectionController::processRadixSort, this);
 				break;
 			}
